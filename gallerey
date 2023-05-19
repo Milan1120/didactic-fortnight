@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+<title>Gallery</title>
+<meta charset="utf-8">
+
+</head>
+<body>  
+    <h1>Images</h1>
+   <img src="/Gallery/mg1.png">
+   <img src="Gallery/img2.png">
+</body>
+</html>
